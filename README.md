@@ -1,6 +1,11 @@
 My Portfolio_Website:
 ### This is a dream portfolio website that I have made for myself.
 
+I have successfully deployed this website using netlify:
+Website URL: https://griffinannshual.netlify.app/
+
+Link to my github repo: https://github.com/GriffinAnnshual/Portfolio_Website/
+
 
 ![image](https://user-images.githubusercontent.com/77448860/232143601-2c16cbe9-0f67-45dd-ba80-433325ef65d1.png)
 
